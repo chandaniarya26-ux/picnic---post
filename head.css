@@ -1,0 +1,36 @@
+
+
+#heading{
+color: orangered;
+font-size: 35px;
+text-align: center;
+}
+#heading2{
+color: lightcoral;
+text-align: center;
+font-size: 30px;
+}
+
+div{
+    text-align: center;
+}
+
+#Summer{
+text-align: center;
+color: lightsalmon;
+font-size: 100px;
+}
+
+#Picnic {
+text-align: center;
+color: blue;
+font-size: 100px;
+}
+
+#para{
+    background-color:orangered
+}
+
+body{
+    background-image: url('images/picnic.jpg')
+}
